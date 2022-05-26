@@ -1,0 +1,5 @@
+N01, Huy, 2002, Nam, quanly, HCM, 0123456, nhan su
+B03, Binh, 1998, Nu, ketoan, Ha Noi, 0903816, 4
+C05, Thanh, 1999, Nam, phucvu, Da Lat, 19008198, toi, 25
+th12, Thai tran, 2002, Nam, phucvu, Hcm, 0127374, sang, 29
+Ql03, phuc Khai, 1998, Nu, quanly, binh Dinh, 0138324, Kho hang
